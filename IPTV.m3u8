@@ -1,26 +1,28 @@
 #EXTM3U
-http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/6117/index.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP:новости
-http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/6050/index.m3u8
+http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/127/index.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:новости
-http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/6163/index.m3u8
+http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/504/index.m3u8
 #EXTINF:0,НТВ
 #EXTGRP:новости
-http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/15334/index.m3u8
+http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/501/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP:новости
-http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/435/index.m3u8
+http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/507/index.m3u8
+#EXTINF:0,360
+#EXTGRP:новости
+http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/825/index.m3u8
 #EXTINF:0,Пятый канал
 #EXTGRP:новости
-http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/545/index.m3u8
+http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/112/index.m3u8
 #EXTINF:0,Мир 24
 #EXTGRP:новости
-http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/2008/index.m3u8
+http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/712/index.m3u8
 #EXTINF:0,Дождь
 #EXTGRP:новости
-http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/19180/index.m3u8
+http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/2030/index.m3u8
 #EXTINF:0,VF Счастливы Вместе
 #EXTGRP:кино
 http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/9242/index.m3u8
@@ -5552,7 +5554,7 @@ http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/6118/index.m3u8
 http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/6142/index.m3u8
 #EXTINF:0,AXN BR
 #EXTGRP:другие
-http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/501/index.m3u8
+http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/6163/index.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP:другие
 http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/502/index.m3u8
@@ -7371,7 +7373,6 @@ http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/19251/index.m3u8
 #EXTINF:0,Magic Adventure HD
 #EXTGRP:HD
 http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/20141/index.m3u8
-#EXTINF:0,VF Граиндхаус
 #EXTINF:0,Delta TV AM
 #EXTGRP:Հայկական
 http://c3xjrki2.dienalt.org/iptv/M4M3X4TLM43ZNP/18214/index.m3u8
