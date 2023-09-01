@@ -1,165 +1,271 @@
 #EXTM3U deinterlace=1 aspect-ratio=16:9 url-tvg="http://www.teleguide.info/download/new3/jtv.zip" tvg-shift=5 m3uautoload=1
-#EXTINF:-1 tvg-shift=0 tvg-name="Nat. Geo. HD", Nat. Geo. HD
-http://iptv.ars.uz:8026/1
-#EXTINF:-1 tvg-shift=0 tvg-name="Nat Geo Wild Channel HD", Nat Geo Wild Channel HD
-http://iptv.ars.uz:8026/2
+#EXTINF:-1 tvg-shift=0 tvg-name="DW_English_HD", DW_English_HD
+http://84.54.69.186:8026/1
+#EXTINF:-1 tvg-shift=0 tvg-name="KuhnyaTV", KuhnyaTV
+http://84.54.69.186:8026/2
 #EXTINF:-1 tvg-shift=0 tvg-name="Animal Planet HD", Animal Planet HD
-http://iptv.ars.uz:8026/3
+http://84.54.69.186:8026/3
 #EXTINF:-1 tvg-shift=0 tvg-name="Uzbekistan_24_HD", Uzbekistan_24_HD
-http://iptv.ars.uz:8026/4
+http://84.54.69.186:8026/4
 #EXTINF:-1 tvg-shift=0 tvg-name="Sport UZ HD", Sport UZ HD
-http://iptv.ars.uz:8026/5
-#EXTINF:-1 tvg-shift=0 tvg-name="Eurosport HD", Eurosport HD
-http://iptv.ars.uz:8026/6
-#EXTINF:-1 tvg-shift=0 tvg-name="Futbol TV HD", Futbol TV HD
-http://iptv.ars.uz:8026/7
+http://84.54.69.186:8026/5
+#EXTINF:-1 tvg-shift=0 tvg-name="Mir HD", Mir HD
+http://84.54.69.186:8026/6
+#EXTINF:-1 tvg-shift=0 tvg-name="MIR24-HD", MIR24-HD
+http://84.54.69.186:8026/7
+#EXTINF:-1 tvg-shift=0 tvg-name="France24_HD_Fr", France24_HD_Fr
+http://84.54.69.186:8026/8
+#EXTINF:-1 tvg-shift=0 tvg-name="KinoMiks", KinoMiks
+http://84.54.69.186:8026/9
+#EXTINF:-1 tvg-shift=0 tvg-name="KinoSemya", KinoSemya
+http://84.54.69.186:8026/10
+#EXTINF:-1 tvg-shift=0 tvg-name="Jivi", Jivi
+http://84.54.69.186:8026/11
+#EXTINF:-1 tvg-shift=0 tvg-name="Eurosport1_HD(Test)", Eurosport1_HD(Test)
+http://84.54.69.186:8026/12
+#EXTINF:-1 tvg-shift=0 tvg-name="Lya_Minor_TV", Lya_Minor_TV
+http://84.54.69.186:8026/13
 #EXTINF:-1 tvg-shift=0 tvg-name="ZorTV_HD", ZorTV_HD
-http://iptv.ars.uz:8026/8
-#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Channel HD", Discovery Channel HD
-http://iptv.ars.uz:8026/9
-#EXTINF:-1 tvg-shift=0 tvg-name="Uzreport TV HD", Uzreport TV HD
-http://iptv.ars.uz:8026/10
+http://84.54.69.186:8026/14
+#EXTINF:-1 tvg-shift=0 tvg-name="365_dney_tv", 365_dney_tv
+http://84.54.69.186:8026/15
+#EXTINF:-1 tvg-shift=0 tvg-name="USADBA", USADBA
+http://84.54.69.186:8026/16
 #EXTINF:-1 tvg-shift=0 tvg-name="Kinoteatr HD", Kinoteatr HD
-http://iptv.ars.uz:8026/11
-#EXTINF:-1 tvg-shift=0 tvg-name="LUX TV 4K", LUX TV 4K
-http://iptv.ars.uz:8026/12
-#EXTINF:-1 tvg-shift=0 tvg-name="Uzbekiston", Uzbekiston
-http://iptv.ars.uz:8026/13
-#EXTINF:-1 tvg-shift=0 tvg-name="Yoshlar", Yoshlar
-http://iptv.ars.uz:8026/14
-#EXTINF:-1 tvg-shift=0 tvg-name="Toshkent", Toshkent
-http://iptv.ars.uz:8026/15
-#EXTINF:-1 tvg-shift=0 tvg-name="Sport UZ", Sport UZ
-http://iptv.ars.uz:8026/16
-#EXTINF:-1 tvg-shift=0 tvg-name="Madaniyat va Marifat", Madaniyat va Marifat
-http://iptv.ars.uz:8026/17
-#EXTINF:-1 tvg-shift=0 tvg-name="Mahalla", Mahalla
-http://iptv.ars.uz:8026/18
-#EXTINF:-1 tvg-shift=0 tvg-name="Oilaviy", Oilaviy
-http://iptv.ars.uz:8026/19
-#EXTINF:-1 tvg-shift=0 tvg-name="Dunyo Boylab", Dunyo Boylab
-http://iptv.ars.uz:8026/20
-#EXTINF:-1 tvg-shift=0 tvg-name="Bolajon", Bolajon
-http://iptv.ars.uz:8026/21
-#EXTINF:-1 tvg-shift=0 tvg-name="Navo", Navo
-http://iptv.ars.uz:8026/22
-#EXTINF:-1 tvg-shift=0 tvg-name="Kinoteatr", Kinoteatr
-http://iptv.ars.uz:8026/23
-#EXTINF:-1 tvg-shift=0 tvg-name="Uzbekistan24", Uzbekistan24
-http://iptv.ars.uz:8026/24
-#EXTINF:-1 tvg-shift=0 tvg-name="Uzbekiston Tarixi HD", Uzbekiston Tarixi HD
-http://iptv.ars.uz:8026/25
-#EXTINF:-1 tvg-shift=0 tvg-name="Uzreport TV", Uzreport TV
-http://iptv.ars.uz:8026/26
-#EXTINF:-1 tvg-shift=0 tvg-name="Mening Yurtim", Mening Yurtim
-http://iptv.ars.uz:8026/27
-#EXTINF:-1 tvg-shift=0 tvg-name="MilliyTV", MilliyTV
-http://iptv.ars.uz:8026/28
-#EXTINF:-1 tvg-shift=0 tvg-name="ZOR TV", ZOR TV
-http://iptv.ars.uz:8026/29
-#EXTINF:-1 tvg-shift=0 tvg-name="Sevimli TV", Sevimli TV
-http://iptv.ars.uz:8026/30
-#EXTINF:-1 tvg-shift=0 tvg-name="Futboll TV", Futboll TV
-http://iptv.ars.uz:8026/31
-#EXTINF:-1 tvg-shift=0 tvg-name="Taraqqiyot TV", Taraqqiyot TV
-http://iptv.ars.uz:8026/32
+http://84.54.69.186:8026/17
+#EXTINF:-1 tvg-shift=0 tvg-name="SevimliTV_HD", SevimliTV_HD
+http://84.54.69.186:8026/18
+#EXTINF:-1 tvg-shift=0 tvg-name="MujskoeKino", MujskoeKino
+http://84.54.69.186:8026/19
+#EXTINF:-1 tvg-shift=0 tvg-name="DOMASHNIE_JIVOTNIE", DOMASHNIE_JIVOTNIE
+http://84.54.69.186:8026/20
+#EXTINF:-1 tvg-shift=0 tvg-name="HDL",HDL
+http://84.54.69.186:8026/21
+#EXTINF:-1 tvg-shift=0 tvg-name="ZDOROVOE_TV", ZDOROVOE_TV
+http://84.54.69.186:8026/22
+#EXTINF:-1 tvg-shift=0 tvg-name="VOPROSY OTVETY", VOPROSY OTVETY
+http://84.54.69.186:8026/23
+#EXTINF:-1 tvg-shift=0 tvg-name="Avto24", Avto24
+http://84.54.69.186:8026/24
+#EXTINF:-1 tvg-shift=0 tvg-name="Drive", Drive
+http://84.54.69.186:8026/25
+#EXTINF:-1 tvg-shift=0 tvg-name="LUX TV HD", LUX TV HD
+http://84.54.69.186:8026/26
 #EXTINF:-1 tvg-shift=0 tvg-name="Perviy Kanal", Perviy Kanal
-http://iptv.ars.uz:8026/33
+http://84.54.69.186:8026/27
 #EXTINF:-1 tvg-shift=0 tvg-name="Rossiya 1", Rossiya 1
-http://iptv.ars.uz:8026/34
+http://84.54.69.186:8026/28
 #EXTINF:-1 tvg-shift=0 tvg-name="Rossiya 24", Rossiya 24
-http://iptv.ars.uz:8026/35
-#EXTINF:-1 tvg-shift=0 tvg-name="Rossia RTR", Rossia RTR
-http://iptv.ars.uz:8026/36
+http://84.54.69.186:8026/29
+#EXTINF:-1 tvg-shift=0 tvg-name="CGTN(TEST)", CGTN(TEST)
+http://84.54.69.186:8026/30
 #EXTINF:-1 tvg-shift=0 tvg-name="HTB", HTB
-http://iptv.ars.uz:8026/37
+http://84.54.69.186:8026/31
 #EXTINF:-1 tvg-shift=0 tvg-name="Euronews", Euronews
-http://iptv.ars.uz:8026/38
+http://84.54.69.186:8026/32
 #EXTINF:-1 tvg-shift=0 tvg-name="TVCentr", TVCentr
-http://iptv.ars.uz:8026/39
+http://84.54.69.186:8026/33
 #EXTINF:-1 tvg-shift=0 tvg-name="Match_TV", Match_TV
-http://iptv.ars.uz:8026/40
+http://84.54.69.186:8026/34
 #EXTINF:-1 tvg-shift=0 tvg-name="Igra_sport", Igra_sport
-http://iptv.ars.uz:8026/41
+http://84.54.69.186:8026/35
 #EXTINF:-1 tvg-shift=0 tvg-name="Arena_sport1", Arena_sport1
-http://iptv.ars.uz:8026/42
+http://84.54.69.186:8026/36
 #EXTINF:-1 tvg-shift=0 tvg-name="Futbol", Futbol
-http://iptv.ars.uz:8026/43
-#EXTINF:-1 tvg-shift=0 tvg-name="Footbol 2", Footbol 2
-http://iptv.ars.uz:8026/44
-#EXTINF:-1 tvg-shift=0 tvg-name="Eurosport", Eurosport
-http://iptv.ars.uz:8026/45
+http://84.54.69.186:8026/37
+#EXTINF:-1 tvg-shift=0 tvg-name="Footbol_2_TEST", Footbol_2_TEST
+http://84.54.69.186:8026/38
+#EXTINF:-1 tvg-shift=0 tvg-name="EuroSport", EuroSport
+http://84.54.69.186:8026/39
 #EXTINF:-1 tvg-shift=0 tvg-name="Detskiy_Mir", Detskiy_Mir
-http://iptv.ars.uz:8026/46
-#EXTINF:-1 tvg-shift=0 tvg-name="Disney", Disney
-http://iptv.ars.uz:8026/47
+http://84.54.69.186:8026/40
+#EXTINF:-1 tvg-shift=0 tvg-name="Unikum", Unikum
+http://84.54.69.186:8026/41
 #EXTINF:-1 tvg-shift=0 tvg-name="Karusel", Karusel
-http://iptv.ars.uz:8026/48
-#EXTINF:-1 tvg-shift=0 tvg-name="Телекафе", Телекафе
-http://iptv.ars.uz:8026/49
+http://84.54.69.186:8026/42
+#EXTINF:-1 tvg-shift=0 tvg-name="Mir", Mir
+http://84.54.69.186:8026/43
+#EXTINF:-1 tvg-shift=0 tvg-name="Mir24", Mir24
+http://84.54.69.186:8026/44
+#EXTINF:-1 tvg-shift=0 tvg-name="CNN International", CNN International
+http://84.54.69.186:8026/45
+#EXTINF:-1 tvg-shift=0 tvg-name="Telecafe", Telecafe
+http://84.54.69.186:8026/46
 #EXTINF:-1 tvg-shift=0 tvg-name="AutoPlus", AutoPlus
-http://iptv.ars.uz:8026/50
-#EXTINF:-1 tvg-shift=0 tvg-name="Т24", Т24
-http://iptv.ars.uz:8026/51
-#EXTINF:-1 tvg-shift=0 tvg-name="Ohota I Ribalka", Ohota I Ribalka
-http://iptv.ars.uz:8026/52
+http://84.54.69.186:8026/47
+#EXTINF:-1 tvg-shift=0 tvg-name="T24", T24
+http://84.54.69.186:8026/48
+#EXTINF:-1 tvg-shift=0 tvg-name="Ohota_i_Rybalka", Ohota_i_Rybalka
+http://84.54.69.186:8026/49
 #EXTINF:-1 tvg-shift=0 tvg-name="Discovery Channel", Discovery Channel
-http://iptv.ars.uz:8026/53
+http://84.54.69.186:8026/50
 #EXTINF:-1 tvg-shift=0 tvg-name="Discovery Science", Discovery Science
-http://iptv.ars.uz:8026/54
+http://84.54.69.186:8026/51
 #EXTINF:-1 tvg-shift=0 tvg-name="National Geographic Channel", National Geographic Channel
-http://iptv.ars.uz:8026/55
-#EXTINF:-1 tvg-shift=0 tvg-name="Nat Geo Wild", Nat Geo Wild
-http://iptv.ars.uz:8026/56
+http://84.54.69.186:8026/52
+#EXTINF:-1 tvg-shift=0 tvg-name="Zoo", Zoo
+http://84.54.69.186:8026/53
 #EXTINF:-1 tvg-shift=0 tvg-name="Animal Planet", Animal Planet
-http://iptv.ars.uz:8026/57
-#EXTINF:-1 tvg-shift=0 tvg-name="Klub Puteshest", Klub Puteshest
-http://iptv.ars.uz:8026/58
-#EXTINF:-1 tvg-shift=0 tvg-name="Explorer", Explorer
-http://iptv.ars.uz:8026/59
+http://84.54.69.186:8026/54
+#EXTINF:-1 tvg-shift=0 tvg-name="8TV_Ru_int(TEST)", 8TV_Ru_int(TEST)
+http://84.54.69.186:8026/55
+#EXTINF:-1 tvg-shift=0 tvg-name="Viasat Explorer", Viasat Explorer
+http://84.54.69.186:8026/56
 #EXTINF:-1 tvg-shift=0 tvg-name="History", History
-http://iptv.ars.uz:8026/60
+http://84.54.69.186:8026/57
 #EXTINF:-1 tvg-shift=0 tvg-name="Retro", Retro
-http://iptv.ars.uz:8026/61
-#EXTINF:-1 tvg-shift=0 tvg-name="Rossia K", Rossia K
-http://iptv.ars.uz:8026/62
+http://84.54.69.186:8026/58
+#EXTINF:-1 tvg-shift=0 tvg-name="Rossia_K", Rossia_K
+http://84.54.69.186:8026/59
 #EXTINF:-1 tvg-shift=0 tvg-name="TB 3", TB 3
-http://iptv.ars.uz:8026/63
-#EXTINF:-1 tvg-shift=0 tvg-name="9-11 sinf", 9-11 sinf
-http://iptv.ars.uz:8026/64
+http://84.54.69.186:8026/60
 #EXTINF:-1 tvg-shift=0 tvg-name="Zvezda", Zvezda
-http://iptv.ars.uz:8026/65
+http://84.54.69.186:8026/61
 #EXTINF:-1 tvg-shift=0 tvg-name="Novoe Kino", Novoe Kino
-http://iptv.ars.uz:8026/66
+http://84.54.69.186:8026/62
 #EXTINF:-1 tvg-shift=0 tvg-name="Rodnoe_Kino", Rodnoe_Kino
-http://iptv.ars.uz:8026/67
-#EXTINF:-1 tvg-shift=0 tvg-name="Fashion TV", Fashion TV
-http://iptv.ars.uz:8026/68
+http://84.54.69.186:8026/63
+#EXTINF:-1 tvg-shift=0 tvg-name="FashionTV", FashionTV
+http://84.54.69.186:8026/64
+#EXTINF:-1 tvg-shift=0 tvg-name="TuganTel(Test)", TuganTel(Test)
+http://84.54.69.186:8026/65
 #EXTINF:-1 tvg-shift=0 tvg-name="Dom Kino", Dom Kino
-http://iptv.ars.uz:8026/69
+http://84.54.69.186:8026/66
 #EXTINF:-1 tvg-shift=0 tvg-name="Kinohit", Kinohit
-http://iptv.ars.uz:8026/70
+http://84.54.69.186:8026/67
 #EXTINF:-1 tvg-shift=0 tvg-name="Kinosvidanie", Kinosvidanie
-http://iptv.ars.uz:8026/71
+http://84.54.69.186:8026/68
 #EXTINF:-1 tvg-shift=0 tvg-name="Kinopremera_HD", Kinopremera_HD
-http://iptv.ars.uz:8026/72
+http://84.54.69.186:8026/69
 #EXTINF:-1 tvg-shift=0 tvg-name="Kinopokaz", Kinopokaz
-http://iptv.ars.uz:8026/73
-#EXTINF:-1 tvg-shift=0 tvg-name="TV 1000", TV 1000
-http://iptv.ars.uz:8026/74
-#EXTINF:-1 tvg-shift=0 tvg-name="TB 1000 Py", TB 1000 Py
-http://iptv.ars.uz:8026/75
-#EXTINF:-1 tvg-shift=0 tvg-name="Индия ТВ", Индия ТВ
-http://iptv.ars.uz:8026/76
+http://84.54.69.186:8026/70
+#EXTINF:-1 tvg-shift=0 tvg-name="TB_1000", TB_1000
+http://84.54.69.186:8026/71
+#EXTINF:-1 tvg-shift=0 tvg-name="TB_1000_Py", TB_1000_Py
+http://84.54.69.186:8026/72
+#EXTINF:-1 tvg-shift=0 tvg-name="Indiyskoe Kino", Indiyskoe Kino
+http://84.54.69.186:8026/73
 #EXTINF:-1 tvg-shift=0 tvg-name="MuzTV", MuzTV
-http://iptv.ars.uz:8026/77
+http://84.54.69.186:8026/74
 #EXTINF:-1 tvg-shift=0 tvg-name="Muzika", Muzika
-http://iptv.ars.uz:8026/78
+http://84.54.69.186:8026/75
 #EXTINF:-1 tvg-shift=0 tvg-name="RuTV", RuTV
-http://iptv.ars.uz:8026/79
-#EXTINF:-1 tvg-shift=0 tvg-name="Footbol 1 HD", Footbol 1 HD
-http://iptv.ars.uz:8026/80
-#EXTINF:-1 tvg-shift=0 tvg-name="MIR", MIR
-http://iptv.ars.uz:8026/81
-#EXTINF:-1 tvg-shift=0 tvg-name="MIR24 HD", MIR24 HD
-http://iptv.ars.uz:8026/82
+http://84.54.69.186:8026/76
+#EXTINF:-1 tvg-shift=0 tvg-name="Kinokomedia", Kinokomedia
+http://84.54.69.186:8026/77
+#EXTINF:-1 tvg-shift=0 tvg-name="AgroTV", AgroTV
+http://84.54.69.186:8026/78
+#EXTINF:-1 tvg-shift=0 tvg-name="TNV_Planeta", TNV_Planeta
+http://84.54.69.186:8026/79
+#EXTINF:-1 tvg-shift=0 tvg-name="BBC WN", BBC WN
+http://84.54.69.186:8026/80
+#EXTINF:-1 tvg-shift=0 tvg-name="Uzreport TV", Uzreport TV
+http://84.54.69.186:8026/81
+#EXTINF:-1 tvg-shift=0 tvg-name="FTV", FTV
+http://84.54.69.186:8026/82
+#EXTINF:-1 tvg-shift=0 tvg-name="MuzTV_UZ", MuzTV_UZ
+http://84.54.69.186:8026/83
+#EXTINF:-1 tvg-shift=0 tvg-name="Kinoseriya", Kinoseriya
+http://84.54.69.186:8026/84
+#EXTINF:-1 tvg-shift=0 tvg-name="Nat Geo Wild HD", Nat Geo Wild HD
+http://84.54.69.186:8026/85
+#EXTINF:-1 tvg-shift=0 tvg-name="National Geographic Channel HD", National Geographic Channel HD
+http://84.54.69.186:8026/86
+#EXTINF:-1 tvg-shift=0 tvg-name="Uzbekiston", Uzbekiston
+http://84.54.69.186:8026/87
+#EXTINF:-1 tvg-shift=0 tvg-name="Yoshlar", Yoshlar
+http://84.54.69.186:8026/88
+#EXTINF:-1 tvg-shift=0 tvg-name="Toshkent", Toshkent
+http://84.54.69.186:8026/89
+#EXTINF:-1 tvg-shift=0 tvg-name="Sport UZ", Sport UZ
+http://84.54.69.186:8026/90
+#EXTINF:-1 tvg-shift=0 tvg-name="Madaniyat va Marifat", Madaniyat va Marifat
+http://84.54.69.186:8026/91
+#EXTINF:-1 tvg-shift=0 tvg-name="O'KT", O'KT
+http://84.54.69.186:8026/92
+#EXTINF:-1 tvg-shift=0 tvg-name="Foreign_Languages", Foreign_Languages
+http://84.54.69.186:8026/93
+#EXTINF:-1 tvg-shift=0 tvg-name="Dunyo Boylab HD", Dunyo Boylab HD
+http://84.54.69.186:8026/94
+#EXTINF:-1 tvg-shift=0 tvg-name="Bolajon", Bolajon
+http://84.54.69.186:8026/95
+#EXTINF:-1 tvg-shift=0 tvg-name="Navo", Navo
+http://84.54.69.186:8026/96
+#EXTINF:-1 tvg-shift=0 tvg-name="Kinoteatr", Kinoteatr
+http://84.54.69.186:8026/97
+#EXTINF:-1 tvg-shift=0 tvg-name="Uzbekistan24", Uzbekistan24
+http://84.54.69.186:8026/98
+#EXTINF:-1 tvg-shift=0 tvg-name="Uzbekiston Tarixi HD", Uzbekiston Tarixi HD
+http://84.54.69.186:8026/99
+#EXTINF:-1 tvg-shift=0 tvg-name="Mening Yurtim", Mening Yurtim
+http://84.54.69.186:8026/100
+#EXTINF:-1 tvg-shift=0 tvg-name="MilliyTV", MilliyTV
+http://84.54.69.186:8026/101
+#EXTINF:-1 tvg-shift=0 tvg-name="ZOR TV", ZOR TV
+http://84.54.69.186:8026/102
+#EXTINF:-1 tvg-shift=0 tvg-name="Sevimli TV", Sevimli TV
+http://84.54.69.186:8026/103
+#EXTINF:-1 tvg-shift=0 tvg-name="Taraqqiyot TV", Taraqqiyot TV
+http://84.54.69.186:8026/104
+#EXTINF:-1 tvg-shift=0 tvg-name="AQLVOY", AQLVOY
+http://84.54.69.186:8026/105
+#EXTINF:-1 tvg-shift=0 tvg-name="DasturxonTV", DasturxonTV
+http://84.54.69.186:8026/106
+#EXTINF:-1 tvg-shift=0 tvg-name="Renessans TV", Renessans TV
+http://84.54.69.186:8026/107
+#EXTINF:-1 tvg-shift=0 tvg-name="Khabar24_KZ", Khabar24_KZ
+http://84.54.69.186:8026/108
+#EXTINF:-1 tvg-shift=0 tvg-name="Dorama", Dorama
+http://84.54.69.186:8026/109
+#EXTINF:-1 tvg-shift=0 tvg-name="Jivi_Aktivno_HD", Jivi_Aktivno_HD
+http://84.54.69.186:8026/110
+#EXTINF:-1 tvg-shift=0 tvg-name="V_Mire_Jivotnih_HD", V_Mire_Jivotnih_HD
+http://84.54.69.186:8026/111
+#EXTINF:-1 tvg-shift=0 tvg-name="Rijiy", Rijiy
+http://84.54.69.186:8026/112
+#EXTINF:-1 tvg-shift=0 tvg-name="Zagorodniy", Zagorodniy
+http://84.54.69.186:8026/113
+#EXTINF:-1 tvg-shift=0 tvg-name="Zhivaya priroda HD", Zhivaya priroda HD
+http://84.54.69.186:8026/114
+#EXTINF:-1 tvg-shift=0 tvg-name="Arsenal HD", Arsenal HD
+http://84.54.69.186:8026/115
+#EXTINF:-1 tvg-shift=0 tvg-name="DuckTV HD", DuckTV HD
+http://84.54.69.186:8026/116
+#EXTINF:-1 tvg-shift=0 tvg-name="VGostyahUSkazki", VGostyahUSkazki
+http://84.54.69.186:8026/117
+#EXTINF:-1 tvg-shift=0 tvg-name="KapitanFantastikaHD", KapitanFantastikaHD
+http://84.54.69.186:8026/118
+#EXTINF:-1 tvg-shift=0 tvg-name="OHOTNIK I RYBOLOV HD", OHOTNIK I RYBOLOV HD
+http://84.54.69.186:8026/119
+#EXTINF:-1 tvg-shift=0 tvg-name="1_KOSMICHESKIY", 1_KOSMICHESKIY
+http://84.54.69.186:8026/120
+#EXTINF:-1 tvg-shift=0 tvg-name="Insight TV HD", Insight TV HD
+http://84.54.69.186:8026/121
+#EXTINF:-1 tvg-shift=0 tvg-name="TRACE SPORTS INTER HD", TRACE SPORTS INTER HD
+http://84.54.69.186:8026/122
+#EXTINF:-1 tvg-shift=0 tvg-name="TRACE URBAN INTER HD", TRACE URBAN INTER HD
+http://84.54.69.186:8026/123
+#EXTINF:-1 tvg-shift=0 tvg-name="Priklyucheniya", Priklyucheniya
+http://84.54.69.186:8026/124
+#EXTINF:-1 tvg-shift=0 tvg-name="Nauka", Nauka
+http://84.54.69.186:8026/125
+#EXTINF:-1 tvg-shift=0 tvg-name="Mult", Mult
+http://84.54.69.186:8026/126
+#EXTINF:-1 tvg-shift=0 tvg-name="Mama", Mama
+http://84.54.69.186:8026/127
+#EXTINF:-1 tvg-shift=0 tvg-name="MoyaPlaneta", MoyaPlaneta
+http://84.54.69.186:8026/128
+#EXTINF:-1 tvg-shift=0 tvg-name="Istoriya", Istoriya
+http://84.54.69.186:8026/129
+#EXTINF:-1 tvg-shift=0 tvg-name="JivayaPlaneta", JivayaPlaneta
+http://84.54.69.186:8026/130
+#EXTINF:-1 tvg-shift=0 tvg-name="Cinema", Cinema
+http://84.54.69.186:8026/131
+#EXTINF:-1 tvg-shift=0 tvg-name="GlazamiTurista_HD", GlazamiTurista_HD
+http://84.54.69.186:8026/132
+#EXTINF:-1 tvg-shift=0 tvg-name="Nasha Sibir", Nasha Sibir
+http://84.54.69.186:8026/133
+#EXTINF:-1 tvg-shift=0 tvg-name="Sarafan", Sarafan
+http://84.54.69.186:8026/134
+#EXTINF:-1 tvg-shift=0 tvg-name="Motosport", Motosport
+http://84.54.69.186:8026/135
